@@ -70,9 +70,7 @@
 <a href="https://www.checkov.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:861/1*pCFbZ09LlUJpQdR21nnH0Q.png" alt="checkov" width="40" height="40"/> </a>
 <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.sentinelone.com/wp-content/uploads/2019/07/19130737/Kafka_use_cases_indicated_by_Kafka_logo_with_Scalyr_colors.png" alt="kafka" width="40" height="40"/> </a>
-<a href="https://zookeeper.apache.org/" target="_blank" rel="noreferrer"> <img src="https://dezyre.gumlet.io/files.dezyre.com/images/Tutorials/zookeeper_logo.png?w=360&dpr=2.6" alt="zookeeper" width="40" height="40"/> </a>
-<a href="https://www.confluent.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/confluent_logo_icon_168859.png" alt="confluent" width="40" height="40"/> </a>
-<a href="https://strimzi.io/" target="_blank" rel="noreferrer"> <img src="https://strimzi.io/images/strimzi_logo.png" alt="strimzi" width="40" height="40"/> </a>
+
 
 🎓 Certificates
 <div>
