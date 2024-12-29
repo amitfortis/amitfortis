@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 Amit's DevOps Repository</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=19F302&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Infrastructure+Specialist;Cyber+Security+Practitioner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=19F302&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Project+Manager;Cyber+Security+Practitioner" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
