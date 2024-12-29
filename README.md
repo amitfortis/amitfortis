@@ -13,12 +13,7 @@
   <a href="https://hub.docker.com/u/amitfortis"><img width="40px" alt="DockerHub" title="DockerHub" src="https://miro.medium.com/v2/resize:fit:601/0*1XzkA-KeQkc2ugix.png"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/amit-fortis?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/amit-fortis?color=FEE12B&style=for-the-badge&labelColor=FFD300&logo=star&logoColor=black"/></a>
-  <a href="https://github.com/amit-fortis?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/amit-fortis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+
 
 ## 💻 Programming & Scripting
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
