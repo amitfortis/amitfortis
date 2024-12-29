@@ -55,7 +55,7 @@
 ## 🛠️ Tools & Platforms
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://cp.beget.com/shared/n1byxn-jiJ9JcOXKDHTsER-FivGDMS94/ubuntu.png" alt="ubuntu" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="windows" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.cloudservices.store/site/wp-content/uploads/2020/10/logo-extra-whitespace.png" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
@@ -63,17 +63,12 @@
 <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-nginx-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945048.png?f=webp&w=256" alt="nginx" width="40" height="40"/> </a>
 <a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/gunicorn-icon-2048x1245-14wjcllu.png" alt="gunicorn" width="40" height="40"/> </a>
 <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="https://www.steel-eye.com/hubfs/Slack%20Logo.png" alt="slack" width="40" height="40"/> </a>
-<a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noreferrer"> <img src="https://netflix.github.io/chaosmonkey/logo.png" alt="chaosMoneky" width="40" height="40"/> </a>
+<a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noreferrer"> <img src="https://netflix.github.io/chaosmonkey/logo.png" alt="chaosMonkey" width="40" height="40"/> </a>
 <a href="https://snyk.io" target="_blank" rel="noreferrer"> <img src="https://cdnlogo.com/logos/s/52/snyk.svg" alt="snyk" width="40" height="40"/> </a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/480px-Wireshark_icon_new.png" alt="wireshark" width="40" height="40"/> </a>
 <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.terasky.com/wp-content/uploads/Group-463-1.svg" alt="hcvault" width="40" height="40"/> </a>
 <a href="https://www.checkov.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:861/1*pCFbZ09LlUJpQdR21nnH0Q.png" alt="checkov" width="40" height="40"/> </a>
 <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/> </a>
-🎓 Certificates
+
+## 🎓 Certificates
 <a href="https://www.credly.com/badges/6479e509-b1a1-4fa6-897b-a9df93da6d7f/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
-</> GitHub Profile Stats
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-Show Image
-Show Image
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="amit-fortis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=amit-fortis&bg_color=1F222E&color=&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
