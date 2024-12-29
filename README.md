@@ -8,9 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amit-fortis-33186a197/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/amit-fortis"><img width="35px" alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://gitlab.com/amit-fortis"><img width="35px" alt="GitLab" title="GitLab" src="https://img.icons8.com/nolan/200/gitlab.png"/></a>
+  <a href="https://github.com/amitfortis"><img width="35px" alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://hub.docker.com/u/amitfortis"><img width="40px" alt="DockerHub" title="DockerHub" src="https://miro.medium.com/v2/resize:fit:601/0*1XzkA-KeQkc2ugix.png"/></a>
 </p>
