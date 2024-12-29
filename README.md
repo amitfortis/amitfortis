@@ -73,6 +73,7 @@
 🎓 Certificates
 <div>
 <a href="https://www.credly.com/badges/6479e509-b1a1-4fa6-897b-a9df93da6d7f/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_100_100/0/1519855919126?e=1686787200&v=beta&t=Jq_lBszXoK5Rx0eOAdahT4_rbWlR9UFPM9SaEGQXoRs" alt="Cyber Defense Practitioner" width="100" height="100"/> </a>
+<a href="https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page" target="_blank" rel="noreferrer"> <img src="https://www.gov.il/BlobFolder/unit/cyber_education_center/en/cyber_logo_eng.png" alt="Cyber Defense Practitioner" width="100" height="100"/> </a>
 </div>
+
 
